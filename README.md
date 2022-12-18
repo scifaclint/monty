@@ -1,1 +1,3 @@
-# Clinton and Samuel 
+# Clinton and Samuel
+
+Monty Project
